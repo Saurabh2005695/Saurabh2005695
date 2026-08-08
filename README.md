@@ -6,57 +6,46 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=Machine+Learning+%26+Predictive+Analytics;Full-Stack+Data-Driven+Web+Applications;Statistical+Modeling+%26+Algorithm+Design" alt="Typing Banner" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Saurabh2005695">
-    <img src="https://img.shields.io/github/followers/Saurabh2005695?label=Followers&style=for-the-badge&color=1f6feb&logo=github" alt="Followers" />
-  </a>
-  <a href="https://github.com/Saurabh2005695">
-    <img src="https://komarev.com/ghpvc/?username=Saurabh2005695&color=58a6ff&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-  </a>
-  <a href="https://www.linkedin.com/in/saurabh-shriwastava-b97a26262/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn Connect" />
-  </a>
-</p>
+---
+
+## Profile Summary
+
+Software Engineer and Analytical Developer focused on building data-driven applications, statistical machine learning models, and full-stack web solutions. Experienced in transforming raw datasets into actionable predictive models, designing RESTful API endpoints, and delivering clean, responsive user interfaces.
+
+I prioritize clean architecture, reproducible data pipelines, and scalable software design. My goal is to build intelligent software systems that bridge the gap between mathematical analytics and practical web applications.
 
 ---
 
-## Executive Overview
+## Core Technical Competencies
 
-Software Engineer and Analytical Developer dedicated to designing intelligent, data-driven systems and high-performance web solutions. Specialized in translating complex datasets into actionable predictive logic, building machine learning pipelines, and deploying robust backend architectures.
-
-- Primary Focus: Predictive Analytics, Machine Learning Workflows, Algorithmic Engineering
-- Core Methodology: Extracting signal from noise to engineer scalable web solutions
-- System Design: REST API Architecture, Interactive Dashboards, Data Processing Pipelines
-
----
-
-## Technical Competencies
-
-| Domain | Technical Expertise & Application |
+| Competency Area | Specialized Skills & Implementation Details |
 | :--- | :--- |
-| **Data Analytics & Modeling** | Statistical Analysis, Feature Engineering, Supervised Learning, Predictive Algorithms |
-| **Machine Learning Workflows** | Data Cleaning, Model Training, Hyperparameter Tuning, Evaluation Metrics |
-| **Backend & API Systems** | Flask RESTful APIs, Pipeline Orchestration, Model Persistence (Joblib/Pickle), Deployment |
-| **Frontend Integration** | Responsive Web Interfaces, Dynamic Charts, Interactive Controls, Asynchronous JavaScript |
+| **Statistical & Machine Learning** | Supervised Learning, Classification Algorithms, Regression Modeling, Model Evaluation (Accuracy, ROC-AUC, Precision/Recall), Hyperparameter Tuning |
+| **Data Preprocessing & Analysis** | Feature Engineering, Baseline Imputation, Feature Scaling, Outlier Handling, Exploratory Data Analysis |
+| **Backend Engineering** | Flask REST API Development, Model Serialization (Joblib/Pickle), Routing Logic, File I/O Management |
+| **Frontend Web Development** | Interactive Dashboards, Asynchronous JavaScript (Fetch API), HTML5, CSS3, Dynamic UI State Management |
+| **Database & Version Control** | SQL Query Optimization, Relational Schema Design, Git Workflow, GitHub Project Management |
 
 ---
 
-## Technical Stack & Tooling
+## Technical Stack & Ecosystem
 
-### Programming Languages & Data
+### Programming Languages & Query Tools
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Machine Learning & Quantitative Libraries
+### Data Science & Machine Learning Libraries
+
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Joblib](https://img.shields.io/badge/Joblib-000000?style=for-the-badge)
 
-### Frameworks, Tools & Infrastructure
+### Frameworks, Tools & Platforms
+
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -65,33 +54,29 @@ Software Engineer and Analytical Developer dedicated to designing intelligent, d
 
 ---
 
-## Featured Work & Highlighted Repositories
+## Featured Project Breakdown
 
-### Diabetes Prediction ML Web Application
-- Core Architecture: End-to-end Machine Learning pipeline utilizing Scikit-Learn classifiers, feature preprocessing, and baseline imputation.
-- Serving Layer: Flask backend serving REST endpoints for real-time inference and model evaluations.
-- Frontend Interface: Responsive web dashboard providing automated risk assessment and feature impact breakdown.
+### Diabetes Prediction ML Web System
 
----
+An end-to-end machine learning web application that predicts diabetes risk based on medical feature metrics.
 
-## GitHub Analytics & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saurabh2005695&theme=tokyonight&no-frame=true&column=6" width="100%" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saurabh2005695&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh2005695&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh2005695&theme=tokyonight&hide_border=true" width="99%" alt="Streak Stats" />
-</p>
+- **Data Pipeline:** Preprocesses diagnostic features, handles missing baseline indicators, applies scaling transformations, and trains high-performance classification models.
+- **Backend Architecture:** Built with Python and Flask, exposing endpoints for dataset uploads, real-time single/batch inference, and custom model evaluation.
+- **Frontend Dashboard:** Formulated with vanilla HTML, CSS, and asynchronous JavaScript to display real-time prediction scores and feature baseline comparisons.
+- **Key Modules:** `train_model.py` (model training pipeline), `app.py` (Flask server orchestration), `app.js` (dynamic DOM interaction).
 
 ---
 
-## Connect & Collaborate
+## Development Principles & Best Practices
+
+1. **Modular Architecture:** Maintaining clear separation of concerns across data engineering scripts, model training modules, API handlers, and UI logic.
+2. **Empirical Validation:** Rigorously evaluating model performance metrics using cross-validation before deployment.
+3. **Clean & Maintainable Code:** Writing documented, readable Python and JavaScript with explicit type checks and error handling.
+4. **Reproducibility:** Structuring clean configuration files (`requirements.txt`, setup scripts) to ensure consistent environment builds.
+
+---
+
+## Connect & Social Profiles
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saurabh-shriwastava-b97a26262/">
