@@ -1,13 +1,10 @@
-<div align="center">
-  <!-- 3D Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=220&section=header&text=Saurabh%20Shriwastava&fontSize=60&fontColor=ffffff&animation=twinkle&fontAlignY=40" width="100%" alt="Header Banner" />
-  
-  <!-- Dynamic Animated Typing Subtitle -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=50&lines=Predictive+Modeling+%26+Analytics;Data-Driven+Software+Engineering;Full-Stack+Web+Development" alt="Typing Subtitle" />
-  </a>
-</div>
-<br />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=220&section=header&text=Saurabh%20Shriwastava&fontSize=52&fontColor=ffffff&animation=twinkle&fontAlignY=38" width="100%" alt="3D Animated Header" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=50&lines=Predictive+Modeling+%26+Analytics;Data-Driven+Software+Engineering;Full-Stack+Web+Development" alt="Typing Animation" />
+</p>
+---
 ## About Me
 Software developer focused on building intelligent systems, quantitative models, and data-driven web applications. Dedicated to converting complex data streams into structured predictive insights and reliable software architectures.
 - Primary Focus: Predictive Analytics, Machine Learning Workflows, Algorithmic Engineering
@@ -32,27 +29,20 @@ Software developer focused on building intelligent systems, quantitative models,
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ---
 ## Performance & Activity Graphs
-<div align="center">
-  <!-- GitHub Overall Stats -->
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saurabh2005695&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  
-  <!-- Top Languages Graph -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh2005695&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-<br />
-<div align="center">
-  <!-- Commit Streak Graph -->
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh2005695&theme=tokyonight&hide_border=true" alt="Streak Stats" width="97%" />
-</div>
-<br />
-<div align="center">
-  <!-- Full Activity Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saurabh2005695&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" width="97%" />
-</div>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saurabh2005695&theme=react-dark&hide_border=true" alt="Activity Graph" width="97%" />
+</p>
 ---
 ## Connect
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/saurabh-shriwastava-b97a26262/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
+</p>
